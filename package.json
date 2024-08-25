@@ -1,0 +1,20 @@
+{
+  "name": "bloge-api",
+  "version": "1.0.0",
+  "description": "This is a bloge post website raet api",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "api",
+    "rastapi",
+    "blogeapi"
+  ],
+  "author": "dip",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
